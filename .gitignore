@@ -1,0 +1,7 @@
+Makefile
+cmake_install
+CMakeCache.txt
+boost-filesystem
+cmake_install.cmake
+CMakeFiles
+.vscode
